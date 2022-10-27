@@ -1,6 +1,6 @@
 ## **Pop The Bubbles Game**
 
-The objective of [Pop The Bubbles Game](https://pop-the-bubbles-game-app.vercel.app/) is to pop all 64 bubbles within 30 seconds. Some bubbles will make popped bubbles appear again but there is only one bubble that can pop everything.
+The objective of [Pop The Bubbles Game](https://bernadettecodes.netlify.app/projects/pop-game/) is to pop all 64 bubbles within 30 seconds. Some bubbles will make popped bubbles appear again but there is only one bubble that can pop everything.
 
 ![Pop The Bubbles Game Webpage](https://raw.githubusercontent.com/bernadette-codes/Bernadettecodes/master/public/assets/img/portfolio/pop-bubbles-game.png)
 
