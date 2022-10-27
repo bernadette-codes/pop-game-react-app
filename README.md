@@ -2,7 +2,7 @@
 
 The objective of [Pop The Bubbles Game](https://bernadetteestacio.site/projects/pop-game/) is to pop all 64 bubbles within 30 seconds. Some bubbles will make popped bubbles appear again but there is only one bubble that can pop everything.
 
-![Pop The Bubbles Game Webpage](https://bernadetteestacio.site/assets/img/portfolio/pop-bubbles-game.png)
+![Pop The Bubbles Game Webpage](https://raw.githubusercontent.com/bernadette-codes/Bernadettecodes/master/public/assets/img/portfolio/pop-bubbles-game.png)
 
 - It is a single-page, responsive application programmed with React
 
